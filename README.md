@@ -1,4 +1,6 @@
-# API para login e registro de usuário + verificação de email 
+# Login Registration Backend 
+
+API para login e registro de usuário + verificação de email 
 
 
 
