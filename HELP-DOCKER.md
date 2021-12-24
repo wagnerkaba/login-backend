@@ -18,4 +18,5 @@
 - `\c <db name>`: connect to a certain database
 - `\dt`: list all tables in the current database using your `search_path`
 - `\dt *.`: list all tables in the current database regardless your `search_path`
+- `\d <table_name>` : To describe a table such as a column, type, modifiers of columns, etc.
 
